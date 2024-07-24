@@ -1,0 +1,67 @@
+# Virtual environment
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Log files
+*.log
+
+# IDE/editor specific files
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Jupyter Notebook extensions
+*.ipynb_checkpoints
+
+# Other
+*.csv
+*.xlsx
+*.sqlite3
+
+# Coverage reports
+.coverage
+*.cover
+*.py,cover
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# mypy
+.mypy_cache/
+
+# Pytest
+.cache/
+
+# pytest
+*.pytest_cache/
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Distribution / packaging
+*.egg
+*.egg-info
+dist
+build
